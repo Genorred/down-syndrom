@@ -1,0 +1,16 @@
+.emoji-container {
+    position: relative;
+}
+
+.emoji {
+    position: absolute;
+    top: -50px;
+    animation: fall ease-in 2s forwards;
+}
+
+@keyframes fall {
+    to {
+        transform: translateY(85vh);
+        opacity: 0;
+    }
+}
