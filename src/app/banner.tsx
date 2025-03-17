@@ -2,7 +2,7 @@ import React from 'react';
 
 const Banner = () => {
     return (
-        <div className='w-[420px]'>■ツイッター■<a href="http://twitter.com/hitmaru" target="_blank"><br/> <img
+        <div className='w-[420px] text-[var(--blue)] text-sm'>■ツイッター■<a href="http://twitter.com/hitmaru" target="_blank"><br/> <img
             src="https://hitmaru.sakura.ne.jp/maincg/twitter_icon.jpg" alt="" width="100" height="20"/></a><br/> ■ピクシヴ■<br/>
             <table width="64">
                 <tbody>

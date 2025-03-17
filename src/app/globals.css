@@ -1,12 +1,13 @@
 @import "tailwindcss";
 
 body {
-    font-family: 'MIO', arial !important;
+    font: 100%/1.4 "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS P Gothic", sans-serif
 }
 
 :root {
-    --background: #ffffff;
+    --background: #0CF;
     --foreground: #171717;
+    --blue: #0CF
 }
 
 @theme inline {

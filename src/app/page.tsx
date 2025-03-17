@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 }
 export default function Home() {
     return (
-        <div className="font-[family-name:var(--font-geist-sans)]">
+        <div className="">
             <header className='flex justify-center items-center h-24'>
                 <h1>
                     {"<<< Література рекомендована автором до ознайомлення >>>"}
